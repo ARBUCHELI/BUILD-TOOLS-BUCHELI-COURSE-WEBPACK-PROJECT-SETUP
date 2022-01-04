@@ -1,0 +1,16 @@
+{
+    "name": "building-apps-with-webpack-webpack-project-setup",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "webpack --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
